@@ -89,7 +89,7 @@ doc/Doxygen/DTAGS
 ############### copy from .gitignore of OpenFOAM-2.4, ends
 
 # added by Yan
-*.out
+**/*.out
 *.jpg
 *.ppm
 # end-of-file
